@@ -83,7 +83,7 @@ ScriptedImporter:
       y: 0
       width: 0
       height: 0
-    spriteID: 0fb174470e407477c92c30f12e21c2cc
+    spriteID: 3ec4e2818fa7d4230931c04990960739
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -107,7 +107,7 @@ ScriptedImporter:
       y: 786
       width: 314
       height: 325
-    spriteID: b868bf54ce94349c9b7d3a21711dcb71
+    spriteID: bbb3029013ab6448abfa157be7e57fd0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -129,7 +129,7 @@ ScriptedImporter:
       y: 1119
       width: 314
       height: 325
-    spriteID: 199e51f92e944430087c407683aa43af
+    spriteID: 88251089a22304aba942e55c06ee4dd3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -138,6 +138,28 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 287, y: -374}
+    spritePosition: {x: 377, y: 1493}
+  - name: God1 Open
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 664
+      y: 1452
+      width: 314
+      height: 325
+    spriteID: 22fe6ba55987348368123790763407d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 287, y: -41}
     spritePosition: {x: 377, y: 1493}
   - name: God1
     originalName: 
@@ -151,7 +173,7 @@ ScriptedImporter:
       y: 4
       width: 652
       height: 1763
-    spriteID: 338a714781e714287bbac85db254ceea
+    spriteID: 8dfe438fc63504de78e041d641724e31
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -173,7 +195,7 @@ ScriptedImporter:
       y: 4
       width: 756
       height: 774
-    spriteID: 7f048392cebc44006bbbc83c6fbcd402
+    spriteID: 11018b3d4477c4650acf7fb0b8762c16
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -234,8 +256,8 @@ ScriptedImporter:
     spriteName: God1 Closed
     isGroup: 0
     parentIndex: -1
-    spriteID: b868bf54ce94349c9b7d3a21711dcb71
-    layerID: 5
+    spriteID: bbb3029013ab6448abfa157be7e57fd0
+    layerID: 6
     mosaicPosition: {x: 664, y: 786}
     flatten: 0
     isImported: 1
@@ -244,9 +266,19 @@ ScriptedImporter:
     spriteName: God1 Half
     isGroup: 0
     parentIndex: -1
-    spriteID: 199e51f92e944430087c407683aa43af
-    layerID: 4
+    spriteID: 88251089a22304aba942e55c06ee4dd3
+    layerID: 5
     mosaicPosition: {x: 664, y: 1119}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: God1 Open
+    spriteName: God1 Open
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 22fe6ba55987348368123790763407d7
+    layerID: 4
+    mosaicPosition: {x: 664, y: 1452}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -254,7 +286,7 @@ ScriptedImporter:
     spriteName: God1
     isGroup: 0
     parentIndex: -1
-    spriteID: 338a714781e714287bbac85db254ceea
+    spriteID: 8dfe438fc63504de78e041d641724e31
     layerID: 3
     mosaicPosition: {x: 4, y: 4}
     flatten: 0
@@ -264,7 +296,7 @@ ScriptedImporter:
     spriteName: Hair
     isGroup: 0
     parentIndex: -1
-    spriteID: 7f048392cebc44006bbbc83c6fbcd402
+    spriteID: 11018b3d4477c4650acf7fb0b8762c16
     layerID: 2
     mosaicPosition: {x: 664, y: 4}
     flatten: 0
@@ -274,7 +306,7 @@ ScriptedImporter:
     spriteName: 
     isGroup: 0
     parentIndex: -1
-    spriteID: c48920346c28348dfb9026571e3dc9b1
+    spriteID: 22b42033c55e1478fbb813147b87039e
     layerID: 1
     mosaicPosition: {x: 0, y: 0}
     flatten: 0

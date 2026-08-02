@@ -83,7 +83,7 @@ ScriptedImporter:
       y: 0
       width: 0
       height: 0
-    spriteID: d6645942bed024455a93e1ba4f9ed372
+    spriteID: 509edef97da734af592e9d8cc978f856
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -95,7 +95,7 @@ ScriptedImporter:
     spritePosition: {x: 0, y: 0}
   multiSpriteImportData: []
   layeredSpriteImportData:
-  - name: God3 Closed
+  - name: "Bild eingef\xFCgt"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -105,9 +105,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 1565
-      width: 453
-      height: 389
-    spriteID: 0fdc6141e2e044a66a5541ab59dc87dc
+      width: 769
+      height: 805
+    spriteID: 8962466ac09a24669a5a8dda44e14c69
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -115,9 +115,9 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: -255, y: 383}
-    spritePosition: {x: 259, y: 1182}
-  - name: God3 Half
+    uvTransform: {x: -65, y: 799}
+    spritePosition: {x: 69, y: 766}
+  - name: "Bild eingef\xFCgt"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -125,11 +125,11 @@ ScriptedImporter:
     customData: 
     rect:
       serializedVersion: 2
-      x: 465
-      y: 1565
-      width: 453
-      height: 389
-    spriteID: 2470084e284b24dff9253d36c499d161
+      x: 4
+      y: 2378
+      width: 769
+      height: 805
+    spriteID: 505a6d7577c2e45918613688a5e01bfe
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -137,8 +137,30 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 206, y: 383}
-    spritePosition: {x: 259, y: 1182}
+    uvTransform: {x: -65, y: 1612}
+    spritePosition: {x: 69, y: 766}
+  - name: "Bild eingef\xFCgt"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3191
+      width: 769
+      height: 805
+    spriteID: 3c12f4cf0c6ef48dd8a6ea5c7e16b68e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -65, y: 2425}
+    spritePosition: {x: 69, y: 766}
   - name: God3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -151,7 +173,7 @@ ScriptedImporter:
       y: 4
       width: 800
       height: 1553
-    spriteID: d89878cea25564ee9abf2fd2f8f2500e
+    spriteID: e7a83e1371fa748039b535913cb3f44b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -208,23 +230,33 @@ ScriptedImporter:
   resliceFromLayer: 0
   pSDLayerImportSetting: []
   psdLayers:
-  - name: God3 Closed
-    spriteName: God3 Closed
+  - name: "Bild eingef\xFCgt"
+    spriteName: "Bild eingef\xFCgt"
     isGroup: 0
     parentIndex: -1
-    spriteID: 0fdc6141e2e044a66a5541ab59dc87dc
-    layerID: 4
+    spriteID: 8962466ac09a24669a5a8dda44e14c69
+    layerID: 5
     mosaicPosition: {x: 4, y: 1565}
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: God3 Half
-    spriteName: God3 Half
+  - name: "Bild eingef\xFCgt"
+    spriteName: "Bild eingef\xFCgt"
     isGroup: 0
     parentIndex: -1
-    spriteID: 2470084e284b24dff9253d36c499d161
+    spriteID: 505a6d7577c2e45918613688a5e01bfe
+    layerID: 4
+    mosaicPosition: {x: 4, y: 2378}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Bild eingef\xFCgt"
+    spriteName: "Bild eingef\xFCgt"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3c12f4cf0c6ef48dd8a6ea5c7e16b68e
     layerID: 3
-    mosaicPosition: {x: 465, y: 1565}
+    mosaicPosition: {x: 4, y: 3191}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -232,7 +264,7 @@ ScriptedImporter:
     spriteName: God3
     isGroup: 0
     parentIndex: -1
-    spriteID: d89878cea25564ee9abf2fd2f8f2500e
+    spriteID: e7a83e1371fa748039b535913cb3f44b
     layerID: 2
     mosaicPosition: {x: 4, y: 4}
     flatten: 0
@@ -242,7 +274,7 @@ ScriptedImporter:
     spriteName: 
     isGroup: 0
     parentIndex: -1
-    spriteID: f082ff118aaf749cba71c809a816f695
+    spriteID: 5122c609200784968bc6652e95a14704
     layerID: 1
     mosaicPosition: {x: 0, y: 0}
     flatten: 0

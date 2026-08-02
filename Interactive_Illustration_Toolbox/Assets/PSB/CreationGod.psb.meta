@@ -83,7 +83,7 @@ ScriptedImporter:
       y: 0
       width: 0
       height: 0
-    spriteID: 74de41be3815a4f34bffa4b072517999
+    spriteID: 7e2a192396ed7429e87f370306a574cd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -95,7 +95,29 @@ ScriptedImporter:
     spritePosition: {x: 0, y: 0}
   multiSpriteImportData: []
   layeredSpriteImportData:
-  - name: God2 Closed
+  - name: "Bild eingef\xFCgt"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2040
+      width: 1050
+      height: 1160
+    spriteID: 6edef27d7e9ab4db7892cff114babc36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -64, y: 1148}
+    spritePosition: {x: 68, y: 892}
+  - name: "Bild eingef\xFCgt"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -105,9 +127,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 1093
       y: 4
-      width: 336
-      height: 388
-    spriteID: 592ce5153f513402faf7bd496401c3e9
+      width: 1050
+      height: 1160
+    spriteID: 38b201c4d7ee84c9192e5890cd585898
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -115,9 +137,9 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 752, y: -1660}
-    spritePosition: {x: 341, y: 1664}
-  - name: God2 Half
+    uvTransform: {x: 1025, y: -888}
+    spritePosition: {x: 68, y: 892}
+  - name: "Bild eingef\xFCgt"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -126,10 +148,10 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 1093
-      y: 400
-      width: 336
-      height: 388
-    spriteID: 85b4661de5435422da7f80ab01f95378
+      y: 1172
+      width: 1050
+      height: 1160
+    spriteID: ccf2758b6076140c6af4b94bb80773cd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -137,8 +159,8 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 752, y: -1264}
-    spritePosition: {x: 341, y: 1664}
+    uvTransform: {x: 1025, y: 280}
+    spritePosition: {x: 68, y: 892}
   - name: God2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -151,7 +173,7 @@ ScriptedImporter:
       y: 4
       width: 1081
       height: 2028
-    spriteID: e6a699c443a50414dad245e1d4caf3ec
+    spriteID: 99b00311b0c754600b71cc73936e7a93
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -208,23 +230,33 @@ ScriptedImporter:
   resliceFromLayer: 0
   pSDLayerImportSetting: []
   psdLayers:
-  - name: God2 Closed
-    spriteName: God2 Closed
+  - name: "Bild eingef\xFCgt"
+    spriteName: "Bild eingef\xFCgt"
     isGroup: 0
     parentIndex: -1
-    spriteID: 592ce5153f513402faf7bd496401c3e9
+    spriteID: 6edef27d7e9ab4db7892cff114babc36
+    layerID: 5
+    mosaicPosition: {x: 4, y: 2040}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Bild eingef\xFCgt"
+    spriteName: "Bild eingef\xFCgt"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 38b201c4d7ee84c9192e5890cd585898
     layerID: 4
     mosaicPosition: {x: 1093, y: 4}
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: God2 Half
-    spriteName: God2 Half
+  - name: "Bild eingef\xFCgt"
+    spriteName: "Bild eingef\xFCgt"
     isGroup: 0
     parentIndex: -1
-    spriteID: 85b4661de5435422da7f80ab01f95378
+    spriteID: ccf2758b6076140c6af4b94bb80773cd
     layerID: 3
-    mosaicPosition: {x: 1093, y: 400}
+    mosaicPosition: {x: 1093, y: 1172}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -232,7 +264,7 @@ ScriptedImporter:
     spriteName: God2
     isGroup: 0
     parentIndex: -1
-    spriteID: e6a699c443a50414dad245e1d4caf3ec
+    spriteID: 99b00311b0c754600b71cc73936e7a93
     layerID: 2
     mosaicPosition: {x: 4, y: 4}
     flatten: 0
@@ -242,7 +274,7 @@ ScriptedImporter:
     spriteName: 
     isGroup: 0
     parentIndex: -1
-    spriteID: 83957b5dbba5b471292409727d60a677
+    spriteID: 54827f9d1b5cb4978a11519400f37dcc
     layerID: 1
     mosaicPosition: {x: 0, y: 0}
     flatten: 0
