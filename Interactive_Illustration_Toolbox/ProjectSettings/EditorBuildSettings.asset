@@ -14,5 +14,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Museum.unity
     guid: b7a42cddc00a34a5e8f3de48ddc0c523
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 834c62008c4284fe89b27ddf71223446
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 51571769a52d44a32a74e3403dbe57d3
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

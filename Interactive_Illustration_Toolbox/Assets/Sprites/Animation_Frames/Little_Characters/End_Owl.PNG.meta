@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 4fea4a4d4e85d4adf8b0c7e4cf478d0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9115496430090362416
+    second: End_Owl_0
+  - first:
+      213: -2506599387884169802
+    second: End_Owl_1
+  - first:
+      213: -1844646530545734780
+    second: End_Owl_2
+  - first:
+      213: 3569955262188052568
+    second: End_Owl_3
+  - first:
+      213: -4301003212829638872
+    second: End_Owl_4
+  - first:
+      213: 7910435559146260469
+    second: End_Owl_5
+  - first:
+      213: -8449103668927915253
+    second: End_Owl_6
+  - first:
+      213: 4727753332439276790
+    second: End_Owl_7
+  - first:
+      213: 1668993098621117477
+    second: End_Owl_8
+  - first:
+      213: -1846290922171726420
+    second: End_Owl_9
+  - first:
+      213: 8064281288161291271
+    second: End_Owl_10
+  - first:
+      213: -3745376579604886628
+    second: End_Owl_11
+  - first:
+      213: -3783919137477901065
+    second: End_Owl_12
+  - first:
+      213: 8768970580199402124
+    second: End_Owl_13
+  - first:
+      213: 8967267305347067114
+    second: End_Owl_14
+  - first:
+      213: 6390630346934339987
+    second: End_Owl_15
+  - first:
+      213: 7521060716768886354
+    second: End_Owl_16
+  - first:
+      213: -1694544161000296589
+    second: End_Owl_17
+  - first:
+      213: -7809733636977440896
+    second: End_Owl_18
+  - first:
+      213: -6448791478669654237
+    second: End_Owl_19
+  - first:
+      213: -7129897619593251646
+    second: End_Owl_20
+  - first:
+      213: 7292113705317284304
+    second: End_Owl_21
+  - first:
+      213: 4968517039304618772
+    second: End_Owl_22
+  - first:
+      213: 2613903229030855204
+    second: End_Owl_23
+  - first:
+      213: 5274903608134821144
+    second: End_Owl_24
+  - first:
+      213: 2156232244699154761
+    second: End_Owl_25
+  - first:
+      213: -2191416450319293473
+    second: End_Owl_26
+  - first:
+      213: -5217326467475149836
+    second: End_Owl_27
+  - first:
+      213: 987073234510091481
+    second: End_Owl_28
+  - first:
+      213: -8281169260989936163
+    second: End_Owl_29
+  - first:
+      213: -7311419073667167051
+    second: End_Owl_30
+  - first:
+      213: 3381471593233614295
+    second: End_Owl_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: End_Owl_0
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 228
+        width: 622
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e90ea05bfb08e70800000000000000
+      internalID: 9115496430090362416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 800
+        width: 77
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5d3f22325c63dd0800000000000000
+      internalID: -2506599387884169802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_2
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 818
+        width: 97
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b2aaaf0cf7666e0800000000000000
+      internalID: -1844646530545734780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_3
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 812
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85061c285670b8130800000000000000
+      internalID: 3569955262188052568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_4
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 812
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fb9799d54cf44c0800000000000000
+      internalID: -4301003212829638872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 808
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f70881da3387cd60800000000000000
+      internalID: 7910435559146260469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 803
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b1a177af0ceba80800000000000000
+      internalID: -8449103668927915253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 806
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc56bd6b9a5c9140800000000000000
+      internalID: 4727753332439276790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 801
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524e3e76164792710800000000000000
+      internalID: 1668993098621117477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 809
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca50de73038a066e0800000000000000
+      internalID: -1846290922171726420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 803
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ceeadea151aef60800000000000000
+      internalID: 8064281288161291271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_11
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 803
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b459e38dfb50cc0800000000000000
+      internalID: -3745376579604886628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_12
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 804
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4c3dfa791dc7bc0800000000000000
+      internalID: -3783919137477901065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_13
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 581
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ae2ae5844a1b970800000000000000
+      internalID: 8768970580199402124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_14
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 568
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecaf258a12227c70800000000000000
+      internalID: 8967267305347067114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_15
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 561
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3994ad7017410b850800000000000000
+      internalID: 6390630346934339987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_16
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 552
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e7725afdc206860800000000000000
+      internalID: 7521060716768886354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 537
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f6d5b4015cb78e0800000000000000
+      internalID: -1694544161000296589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 529
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0874a8982a04e9390800000000000000
+      internalID: -7809733636977440896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 510
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327445b315a4186a0800000000000000
+      internalID: -6448791478669654237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 486
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4bd3b04e38d0d90800000000000000
+      internalID: -7129897619593251646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_21
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 498
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9b13b97cac23560800000000000000
+      internalID: 7292113705317284304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 488
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4133a344ce7b3f440800000000000000
+      internalID: 4968517039304618772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 477
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42271a34323764420800000000000000
+      internalID: 2613903229030855204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_24
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 475
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8156d4b42e8343940800000000000000
+      internalID: 5274903608134821144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 458
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94949866dc97ced10800000000000000
+      internalID: 2156232244699154761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 258
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd365cb59568691e0800000000000000
+      internalID: -2191416450319293473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_27
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 261
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb66ec68355897b0800000000000000
+      internalID: -5217326467475149836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 259
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4154680e9c2bd00800000000000000
+      internalID: 987073234510091481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_29
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 266
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd8fc1ce60631d80800000000000000
+      internalID: -8281169260989936163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_30
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 255
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc8d0e071f988a90800000000000000
+      internalID: -7311419073667167051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: End_Owl_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 252
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d583cc8f766dee20800000000000000
+      internalID: 3381471593233614295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      End_Owl_0: 9115496430090362416
+      End_Owl_1: -2506599387884169802
+      End_Owl_10: 8064281288161291271
+      End_Owl_11: -3745376579604886628
+      End_Owl_12: -3783919137477901065
+      End_Owl_13: 8768970580199402124
+      End_Owl_14: 8967267305347067114
+      End_Owl_15: 6390630346934339987
+      End_Owl_16: 7521060716768886354
+      End_Owl_17: -1694544161000296589
+      End_Owl_18: -7809733636977440896
+      End_Owl_19: -6448791478669654237
+      End_Owl_2: -1844646530545734780
+      End_Owl_20: -7129897619593251646
+      End_Owl_21: 7292113705317284304
+      End_Owl_22: 4968517039304618772
+      End_Owl_23: 2613903229030855204
+      End_Owl_24: 5274903608134821144
+      End_Owl_25: 2156232244699154761
+      End_Owl_26: -2191416450319293473
+      End_Owl_27: -5217326467475149836
+      End_Owl_28: 987073234510091481
+      End_Owl_29: -8281169260989936163
+      End_Owl_3: 3569955262188052568
+      End_Owl_30: -7311419073667167051
+      End_Owl_31: 3381471593233614295
+      End_Owl_4: -4301003212829638872
+      End_Owl_5: 7910435559146260469
+      End_Owl_6: -8449103668927915253
+      End_Owl_7: 4727753332439276790
+      End_Owl_8: 1668993098621117477
+      End_Owl_9: -1846290922171726420
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

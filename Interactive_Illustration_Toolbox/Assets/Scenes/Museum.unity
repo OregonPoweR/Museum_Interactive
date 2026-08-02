@@ -317,6 +317,8 @@ GameObject:
   - component: {fileID: 13571453}
   - component: {fileID: 13571459}
   - component: {fileID: 13571460}
+  - component: {fileID: 13571462}
+  - component: {fileID: 13571461}
   m_Layer: 0
   m_Name: Logic
   m_TagString: Untagged
@@ -465,6 +467,8 @@ MonoBehaviour:
   - {fileID: 13571453}
   - {fileID: 13571459}
   - {fileID: 13571460}
+  - {fileID: 13571462}
+  - {fileID: 13571461}
 --- !u!114 &13571459
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -497,6 +501,36 @@ MonoBehaviour:
   volume: 1
   randomPitchMin: 1
   randomPitchMax: 1
+--- !u!114 &13571461
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 13571451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed030ea2c4afff740b146c01d671eff8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InteractionEffects.SetGameObjectActivation
+  delay: 0
+  targetGameObject: {fileID: 114183951}
+  active: 1
+--- !u!114 &13571462
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 13571451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed030ea2c4afff740b146c01d671eff8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InteractionEffects.SetGameObjectActivation
+  delay: 0.6
+  targetGameObject: {fileID: 114183951}
+  active: 0
 --- !u!1 &15378797
 GameObject:
   m_ObjectHideFlags: 0
@@ -758,6 +792,11 @@ Transform:
   - {fileID: 711385931}
   m_Father: {fileID: 730742935}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &114183951 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8877741624388947134, guid: 805564925ec694f3a80fb7eab6d268ce, type: 3}
+  m_PrefabInstance: {fileID: 1273530057}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &117265474
 GameObject:
   m_ObjectHideFlags: 0
@@ -10814,6 +10853,9 @@ GameObject:
   - component: {fileID: 303353702}
   - component: {fileID: 303353701}
   - component: {fileID: 303353700}
+  - component: {fileID: 303353706}
+  - component: {fileID: 303353705}
+  - component: {fileID: 303353704}
   m_Layer: 0
   m_Name: Lock
   m_TagString: Untagged
@@ -10833,7 +10875,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed030ea2c4afff740b146c01d671eff8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delay: 3
+  delay: 1.7
   targetGameObject: {fileID: 585280041}
   active: 1
 --- !u!114 &303353701
@@ -10873,6 +10915,9 @@ MonoBehaviour:
   interactionEffectsOnConditionPartiallyFulfilled: []
   interactionEffectsOnConditionFulfilled:
   - {fileID: 303353700}
+  - {fileID: 303353706}
+  - {fileID: 303353705}
+  - {fileID: 303353704}
 --- !u!4 &303353703
 Transform:
   m_ObjectHideFlags: 0
@@ -10888,6 +10933,51 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &303353704
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 303353699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed030ea2c4afff740b146c01d671eff8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InteractionEffects.SetGameObjectActivation
+  delay: 2.1
+  targetGameObject: {fileID: 1874051095}
+  active: 1
+--- !u!114 &303353705
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 303353699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed030ea2c4afff740b146c01d671eff8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InteractionEffects.SetGameObjectActivation
+  delay: 2.1
+  targetGameObject: {fileID: 114183951}
+  active: 1
+--- !u!114 &303353706
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 303353699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed030ea2c4afff740b146c01d671eff8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InteractionEffects.SetGameObjectActivation
+  delay: 2.1
+  targetGameObject: {fileID: 783684665}
+  active: 1
 --- !u!1 &308438611
 GameObject:
   m_ObjectHideFlags: 0
@@ -11897,9 +11987,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InteractionEffects.PlaySound
   delay: 0
   soundToPlay: {fileID: 8300000, guid: 369b214333106404994345a17f3ffcd9, type: 3}
-  volume: 1
+  volume: 3
   randomPitchMin: 1
   randomPitchMax: 1
+--- !u!1 &783684665 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7243792037452938455, guid: 805564925ec694f3a80fb7eab6d268ce, type: 3}
+  m_PrefabInstance: {fileID: 1273530057}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &823341871
 GameObject:
   m_ObjectHideFlags: 0
@@ -12366,7 +12461,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InteractionEffects.PlaySound
   delay: 0
   soundToPlay: {fileID: 8300000, guid: 369b214333106404994345a17f3ffcd9, type: 3}
-  volume: 1
+  volume: 3
   randomPitchMin: 1
   randomPitchMax: 1
 --- !u!1 &978541542
@@ -12386,6 +12481,8 @@ GameObject:
   - component: {fileID: 978541544}
   - component: {fileID: 978541550}
   - component: {fileID: 978541551}
+  - component: {fileID: 978541553}
+  - component: {fileID: 978541552}
   m_Layer: 0
   m_Name: Logic
   m_TagString: Untagged
@@ -12534,6 +12631,8 @@ MonoBehaviour:
   - {fileID: 978541544}
   - {fileID: 978541550}
   - {fileID: 978541551}
+  - {fileID: 978541553}
+  - {fileID: 978541552}
 --- !u!114 &978541550
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -12566,6 +12665,36 @@ MonoBehaviour:
   volume: 1
   randomPitchMin: 1
   randomPitchMax: 1
+--- !u!114 &978541552
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 978541542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed030ea2c4afff740b146c01d671eff8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InteractionEffects.SetGameObjectActivation
+  delay: 0
+  targetGameObject: {fileID: 1874051095}
+  active: 1
+--- !u!114 &978541553
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 978541542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed030ea2c4afff740b146c01d671eff8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InteractionEffects.SetGameObjectActivation
+  delay: 0.6
+  targetGameObject: {fileID: 1874051095}
+  active: 0
 --- !u!1 &1010158327
 GameObject:
   m_ObjectHideFlags: 0
@@ -13054,7 +13183,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InteractionEffects.PlaySound
   delay: 0
   soundToPlay: {fileID: 8300000, guid: 369b214333106404994345a17f3ffcd9, type: 3}
-  volume: 2
+  volume: 3
   randomPitchMin: 1
   randomPitchMax: 1
 --- !u!1 &1087444572
@@ -13409,7 +13538,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InteractionEffects.PlaySound
   delay: 0
   soundToPlay: {fileID: 8300000, guid: 369b214333106404994345a17f3ffcd9, type: 3}
-  volume: 1
+  volume: 3
   randomPitchMin: 1
   randomPitchMax: 1
 --- !u!1 &1170209152
@@ -15283,6 +15412,8 @@ GameObject:
   - component: {fileID: 1739759982}
   - component: {fileID: 1739759984}
   - component: {fileID: 1739759985}
+  - component: {fileID: 1739759987}
+  - component: {fileID: 1739759986}
   m_Layer: 0
   m_Name: Logic
   m_TagString: Untagged
@@ -15386,6 +15517,8 @@ MonoBehaviour:
   - {fileID: 1739759982}
   - {fileID: 1739759984}
   - {fileID: 1739759985}
+  - {fileID: 1739759987}
+  - {fileID: 1739759986}
 --- !u!4 &1739759981
 Transform:
   m_ObjectHideFlags: 0
@@ -15463,6 +15596,36 @@ MonoBehaviour:
   volume: 1
   randomPitchMin: 1
   randomPitchMax: 1
+--- !u!114 &1739759986
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1739759975}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed030ea2c4afff740b146c01d671eff8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InteractionEffects.SetGameObjectActivation
+  delay: 0
+  targetGameObject: {fileID: 783684665}
+  active: 1
+--- !u!114 &1739759987
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1739759975}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed030ea2c4afff740b146c01d671eff8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InteractionEffects.SetGameObjectActivation
+  delay: 0.6
+  targetGameObject: {fileID: 783684665}
+  active: 0
 --- !u!1 &1776537411
 GameObject:
   m_ObjectHideFlags: 0
@@ -20674,6 +20837,11 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!1 &1874051095 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -1629427594379446450, guid: 805564925ec694f3a80fb7eab6d268ce, type: 3}
+  m_PrefabInstance: {fileID: 1273530057}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1950691095
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 23db74f54862d42fc9bcedab5b3fe15e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -445878755930710517
+    second: Start_Owl_0
+  - first:
+      213: 6323341475460581029
+    second: Start_Owl_1
+  - first:
+      213: 6791105204718234235
+    second: Start_Owl_2
+  - first:
+      213: -3773419266487312829
+    second: Start_Owl_3
+  - first:
+      213: -5329845030251892114
+    second: Start_Owl_4
+  - first:
+      213: -1013384104804507636
+    second: Start_Owl_5
+  - first:
+      213: 4296150458367056758
+    second: Start_Owl_6
+  - first:
+      213: -7922062898201480864
+    second: Start_Owl_7
+  - first:
+      213: -5588667067311007023
+    second: Start_Owl_8
+  - first:
+      213: 6221585202850206989
+    second: Start_Owl_9
+  - first:
+      213: -5950778674675999456
+    second: Start_Owl_10
+  - first:
+      213: 4595755975304233680
+    second: Start_Owl_11
+  - first:
+      213: 5243921164021980535
+    second: Start_Owl_12
+  - first:
+      213: 7518297597721773259
+    second: Start_Owl_13
+  - first:
+      213: 1744713796105627902
+    second: Start_Owl_14
+  - first:
+      213: -1312114751408584130
+    second: Start_Owl_15
+  - first:
+      213: 8055715593759307759
+    second: Start_Owl_16
+  - first:
+      213: -599925601093180823
+    second: Start_Owl_17
+  - first:
+      213: -1825049508768872802
+    second: Start_Owl_18
+  - first:
+      213: 7199830209154795077
+    second: Start_Owl_19
+  - first:
+      213: 5879265293786134259
+    second: Start_Owl_20
+  - first:
+      213: 6115728924818647971
+    second: Start_Owl_21
+  - first:
+      213: 2147083171152885111
+    second: Start_Owl_22
+  - first:
+      213: -5704709632620720192
+    second: Start_Owl_23
+  - first:
+      213: -2154709431293315944
+    second: Start_Owl_24
+  - first:
+      213: 6687173196801132592
+    second: Start_Owl_25
+  - first:
+      213: -7732700107066940274
+    second: Start_Owl_26
+  - first:
+      213: 1381328219257495022
+    second: Start_Owl_27
+  - first:
+      213: 433881218794263254
+    second: Start_Owl_28
+  - first:
+      213: -4108360641371212261
+    second: Start_Owl_29
+  - first:
+      213: 8597446671897692197
+    second: Start_Owl_30
+  - first:
+      213: 4345723859659658728
+    second: Start_Owl_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Start_Owl_0
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 228
+        width: 622
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e5bd342abefc9f0800000000000000
+      internalID: -445878755930710517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 800
+        width: 77
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a68256c19501c750800000000000000
+      internalID: 6323341475460581029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_2
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 818
+        width: 97
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a698fe33ade3e50800000000000000
+      internalID: 6791105204718234235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_3
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 812
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e98686b2f12abc0800000000000000
+      internalID: -3773419266487312829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_4
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 812
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6274f70f269806b0800000000000000
+      internalID: -5329845030251892114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 808
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00a91c968cbfe1f0800000000000000
+      internalID: -1013384104804507636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 803
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b9994741efe9b30800000000000000
+      internalID: 4296150458367056758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 806
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061366854cd2f0290800000000000000
+      internalID: -7922062898201480864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 801
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dad00d89e01172b0800000000000000
+      internalID: -5588667067311007023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 809
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0596b357c2875650800000000000000
+      internalID: 6221585202850206989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 803
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d97fee2569a6da0800000000000000
+      internalID: -5950778674675999456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_11
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 803
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2436ec5b767cf30800000000000000
+      internalID: 4595755975304233680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_12
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 804
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ddea3e38626c840800000000000000
+      internalID: 5243921164021980535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_13
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 581
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc401ebd4db565860800000000000000
+      internalID: 7518297597721773259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_14
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 568
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8699324f7763810800000000000000
+      internalID: 1744713796105627902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_15
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 561
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3acdb1e59e6acde0800000000000000
+      internalID: -1312114751408584130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_16
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 552
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe73999c6a6abcf60800000000000000
+      internalID: 8055715593759307759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 537
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962ad2728d2aca7f0800000000000000
+      internalID: -599925601093180823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 529
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96845c242f1ca6e0800000000000000
+      internalID: -1825049508768872802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 510
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5464ccbcd6feae360800000000000000
+      internalID: 7199830209154795077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 486
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6b76092a8579150800000000000000
+      internalID: 5879265293786134259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_21
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 498
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aba56afd0f6fd450800000000000000
+      internalID: 6115728924818647971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 488
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77579c7b4c8fbcd10800000000000000
+      internalID: 2147083171152885111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 477
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf84e060dcc4d0b0800000000000000
+      internalID: -5704709632620720192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_24
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 475
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894f399303fe812e0800000000000000
+      internalID: -2154709431293315944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 458
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03848d2a79c9dcc50800000000000000
+      internalID: 6687173196801132592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 258
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8466a3e83eefa490800000000000000
+      internalID: -7732700107066940274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_27
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 261
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedd01362b67b2310800000000000000
+      internalID: 1381328219257495022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 259
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d212f07ba4750600800000000000000
+      internalID: 433881218794263254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_29
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 266
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b167fd183cb2cf6c0800000000000000
+      internalID: -4108360641371212261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_30
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 255
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52883d56234405770800000000000000
+      internalID: 8597446671897692197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Owl_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 252
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e514f263dc1f4c30800000000000000
+      internalID: 4345723859659658728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Start_Owl_0: -445878755930710517
+      Start_Owl_1: 6323341475460581029
+      Start_Owl_10: -5950778674675999456
+      Start_Owl_11: 4595755975304233680
+      Start_Owl_12: 5243921164021980535
+      Start_Owl_13: 7518297597721773259
+      Start_Owl_14: 1744713796105627902
+      Start_Owl_15: -1312114751408584130
+      Start_Owl_16: 8055715593759307759
+      Start_Owl_17: -599925601093180823
+      Start_Owl_18: -1825049508768872802
+      Start_Owl_19: 7199830209154795077
+      Start_Owl_2: 6791105204718234235
+      Start_Owl_20: 5879265293786134259
+      Start_Owl_21: 6115728924818647971
+      Start_Owl_22: 2147083171152885111
+      Start_Owl_23: -5704709632620720192
+      Start_Owl_24: -2154709431293315944
+      Start_Owl_25: 6687173196801132592
+      Start_Owl_26: -7732700107066940274
+      Start_Owl_27: 1381328219257495022
+      Start_Owl_28: 433881218794263254
+      Start_Owl_29: -4108360641371212261
+      Start_Owl_3: -3773419266487312829
+      Start_Owl_30: 8597446671897692197
+      Start_Owl_31: 4345723859659658728
+      Start_Owl_4: -5329845030251892114
+      Start_Owl_5: -1013384104804507636
+      Start_Owl_6: 4296150458367056758
+      Start_Owl_7: -7922062898201480864
+      Start_Owl_8: -5588667067311007023
+      Start_Owl_9: 6221585202850206989
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
